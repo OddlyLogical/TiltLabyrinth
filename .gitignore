@@ -1,0 +1,9 @@
+.godot/
+.vs/
+bin/
+obj/
+Builds/
+*.keystore
+*.jks
+export_credentials.cfg
+NuGet.Config
